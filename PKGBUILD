@@ -1,7 +1,7 @@
 # Maintainer: ChiliEater
 pkgname=hyprland-meta
 pkgver=1.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Metapackage for Hyprland that includes all the necessary bells and whistles."
 arch=("x86_64")
 url="https://hyprland.org/"
@@ -19,7 +19,6 @@ depends=(
     "qt5-wayland"
     "qt6-wayland"
     "nwg-look"
-    "qt4ct"
     "qt5ct"
     "qt6ct"
     "eww-wayland"
