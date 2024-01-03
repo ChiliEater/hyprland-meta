@@ -30,4 +30,8 @@ depends=(
     "cliphist"
     "wl-clip-persist-git"
     "udiskie"
+    "qt5-wayland"
+    "qt6-wayland"
+    "libva"
+    "libva-nvidia-driver"
 )
