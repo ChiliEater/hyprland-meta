@@ -33,4 +33,5 @@ depends=(
     "qt6-wayland"
     "libva"
     "libva-nvidia-driver"
+	"hyprshot"
 )
