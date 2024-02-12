@@ -1,6 +1,6 @@
 # Maintainer: ChiliEater
 pkgname=hyprland-meta
-pkgver=1.2
+pkgver=1.3
 pkgrel=1
 pkgdesc="Metapackage for Hyprland that includes all the necessary bells and whistles."
 arch=("x86_64")
