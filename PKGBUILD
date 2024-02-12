@@ -34,4 +34,5 @@ depends=(
     "libva"
     "libva-nvidia-driver"
 	"hyprshot"
+	"hyprkeys"
 )
