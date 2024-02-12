@@ -35,4 +35,6 @@ depends=(
     "libva-nvidia-driver"
 	"hyprshot"
 	"hyprkeys"
+	"waylock"
+	"swayidle"
 )
